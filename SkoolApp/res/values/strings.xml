@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SkoolApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="homeButton">Enter</string>
+    <string name="home_image">School logo</string>
+    <string name="user_name">Username</string>
+    <string name="pass_word">Password</string>
+
+</resources>
